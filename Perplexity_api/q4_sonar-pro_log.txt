@@ -1,0 +1,19 @@
+Based on the information provided, the correct answers are:
+
+(B) 人的ABO血型屬於複等位基因遺傳，但仍能用孟德爾因子的分離律解釋[1][5]
+
+(C) 狗的體型大小其表徵不只二個，故不能由單一孟德爾因子表現其分離律[1][5]
+
+(D) 人的紅綠色盲是性聯遺傳，其表徵在男女出現機率不同仍符合分離律[2][6][10]
+
+Explanation:
+
+(B) is correct because although ABO blood type involves multiple alleles, it still follows Mendel's law of segregation for each individual allele pair[1][5].
+
+(C) is correct as complex traits like dog body size are controlled by multiple genes and cannot be explained by a single Mendelian factor[1][5].
+
+(D) is correct because red-green colorblindness is an X-linked trait that follows Mendel's law of segregation, even though its expression differs between males and females[2][6][10].
+
+(A) is incorrect because intermediate inheritance in four o'clock flowers does not violate Mendel's law of segregation[1][3].
+
+(E) is incorrect because although height and weight are influenced by environmental factors, they still have genetic components that follow Mendelian inheritance to some degree[1][5].

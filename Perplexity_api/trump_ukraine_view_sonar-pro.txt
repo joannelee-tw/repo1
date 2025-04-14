@@ -1,0 +1,29 @@
+CompletionUsage(completion_tokens=509, prompt_tokens=40, total_tokens=549, completion_tokens_details=None, prompt_tokens_details=None, citation_tokens=5053, num_search_queries=1)
+
+根據搜索結果,川普對烏克蘭戰爭的立場主要包括以下幾點:
+
+1. 希望盡快結束戰爭。川普表示他希望看到俄烏戰爭盡快結束[5]。
+
+2. 認為美國不應繼續無限期支持烏克蘭。川普表示"美國不會忍受多久"烏克蘭總統澤倫斯基的立場[3][4]。
+
+3. 批評澤倫斯基不想和平。川普認為"只要有美國支持,這傢伙就不希望那裡和平"[3][4]。
+
+4. 考慮暫停或切斷對烏克蘭的軍事援助。有報導稱川普正在考慮對基輔切斷所有軍事援助[3][4]。
+
+5. 要求烏克蘭對美國援助表示感謝。川普表示澤倫斯基"應該對美國抱持更多感謝"[5]。
+
+6. 支持與俄羅斯達成和平協議。川普認為和平協議"沒有那麼難,有可能在很短的時間內就能達成"[5]。
+
+7. 批評澤倫斯基稱戰爭可能持續很長時間。川普稱這是"最糟糕的說法"[5]。
+
+總的來說,川普希望盡快結束戰爭,減少美國對烏克蘭的援助,並推動烏克蘭與俄羅斯達成和平協議。他對澤倫斯基的立場持批評態度,認為烏克蘭應該更感謝美國的援助。
+
+
+ Citations 
+1 https://forum.ettoday.net/news/2918608
+2 https://www.worldjournal.com/wj/story/121256/8584005
+3 https://www.rti.org.tw/news/view/id/2240395
+4 https://money.udn.com/money/story/10511/8583844
+5 https://www.worldjournal.com/wj/story/121256/8583941
+6 https://www.rfi.fr/tw/%E5%B0%88%E6%AC%84%E6%AA%A2%E7%B4%A2/%E5%BE%AE%E8%A8%80%E5%BE%AE%E8%AA%9E/20250302-%E4%BF%84%E7%83%8F%E6%88%B0%E7%88%AD%E7%88%86%E7%99%BC%E4%B8%89%E5%91%A8%E5%B9%B4%EF%BC%8C%E7%BE%8E%E5%9C%8B%E7%AB%8B%E5%A0%B4%E7%AA%81%E8%AE%8A%E5%BC%95%E7%86%B1%E8%AD%B0
+7 https://news.pts.org.tw/article/740094
