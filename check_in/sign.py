@@ -49,8 +49,9 @@ Teams 的複製方式 (單純Ctrl+C 人名會消失)
 5. 到記事本(.txt) Ctrl + V
 6. 刪除前後非聊天紀錄的文字 (會複製一些Teams的功能文字，也會複製到最新的以及前幾則上個月的簽到訊息，這些都要刪掉)
 
-最後的.txt檔案應該會長這樣 (會包含自己的名字，所以不用補) 
+最後的.txt檔案應該會長這樣 (會包含自己的名字，所以不用補) :
 
+============================
 由 Erica Ye 的 訊息
 Erica Ye
 
@@ -83,7 +84,7 @@ Robert Chen
 
 20250331
 1200 out
-
+=========================================
 '''
 
 # -*- coding: utf-8 -*-
@@ -353,7 +354,7 @@ def main():
 
 
 if __name__ == '__main__':
-    
+
     #config----------
     month = 4 #change to the desired month (affects the filtering of sign-in data in Teams)
     #config end -------------
