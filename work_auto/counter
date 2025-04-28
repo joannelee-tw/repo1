@@ -1,0 +1,8 @@
+counter = 0
+while True:
+    count = input("Type + to add 1, END to end")
+    if count == '+':
+        counter += 1
+        print(f"Counter: {counter}")
+    elif count == 'end':
+        break

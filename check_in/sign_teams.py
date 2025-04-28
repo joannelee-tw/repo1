@@ -277,7 +277,7 @@ def apply_conditions(sheet, row):
                 for col_idx in range(1, 7):  # A=1, B=2, ..., F=6
                     sheet.cell(row=row_idx, column=col_idx, value="")
             sheet[f"G3"] = f"錯誤: Row {row} 下班時間 {time_out} 早於 17:30，請檢查資料。"""
-            print(f"警告：Row {row} 下班時間 {time_out} 早於 17:30，為甚麼這麼早下班?")
+            print(f"警告：Row {row} 下班時間 {time_out} 早於 17:30，請檢查資料")
             #raise ValueError(f"Row {row}: 下班時間 {time_out} 早於 17:30，請檢查資料。")
 
         if 8.00 <= time_in_float <= 10.00 and 17.00 <= time_out_float <= 18.30:
